@@ -1,0 +1,12 @@
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDBData.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDBData.pdb
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\obj\Debug\MongoDBData.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\obj\Debug\MongoDBData.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\obj\Debug\MongoDBData.pdb
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDB.Bson.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDB.Driver.Core.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDB.Driver.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDB.Bson.xml
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\MongoDB.Driver.xml
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\Projects\MongoDB\MvcMongoDBApplication\MongoDBData\bin\Debug\WebGrease.dll
