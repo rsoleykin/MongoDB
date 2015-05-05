@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/MongoDBData/bin
+/MongoDBDatas/obj/Debug
+/MvcMongoDBApplication/bin
+/MvcMongoDBApplication/obj/Debug
+*.suo
+*.user
